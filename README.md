@@ -1,1 +1,3 @@
-# branch-practice
+# BRANCH PRACTICE
+
+## Index
