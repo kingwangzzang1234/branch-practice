@@ -1,4 +1,5 @@
-for i in range(1, 15+1):
+for i in range(16, 30+1):
+    # Implementation of fizzbuzz
     if i % 3 == 0:
         print('fizz')
     elif i % 5 == 0:
