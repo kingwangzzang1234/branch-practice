@@ -1,1 +1,3 @@
-# Awesome git branch
+# Awesome Rebase
+
+## How to Start
